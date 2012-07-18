@@ -1,0 +1,1 @@
+This small php application will archive a specified folder, gzip the contents of the folder, upload the file to an Amazon S3 bucket and remove the folder and file.
